@@ -1,4 +1,4 @@
-# Hello, I'mIsa David 👋
+# Hello, I'm Isa David 👋
 
 ## 🚀 About Me
 I'm a Student, currently studying at University of Lisbon, Faculty of Science (**FCUL**). 
@@ -17,7 +17,7 @@ I was born in **Portugal** and currently live in **Lisbon, Portugal**.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/sqlite/sql-icon.svg" alt="SQL" width="40" height="40"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" alt="SQL Badge" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
 
 **Tools & Platforms:**  
